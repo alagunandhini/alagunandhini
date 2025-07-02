@@ -30,6 +30,11 @@
 > A UI-rich online course platform with a learning-friendly layout.  
 🔗 [Live Demo](http://easylearn-alna.netlify.app)
 
+####  UserManagement-Full stack
+> A simple full-stack web application to manage user data like name, email, and date of birth.  
+🔗 [Live Demo](https://user-management1-one.vercel.app/)
+
+
 ---
 
 ###  Connect with Me
