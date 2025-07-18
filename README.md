@@ -10,18 +10,10 @@
 
 ---
 
-## 🚀 Technologies  
-![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/48/css3.png)
-![JavaScript](https://img.icons8.com/fluency/48/javascript.png)
-![Bootstrap](https://img.icons8.com/color/48/bootstrap--v2.png)
-![Tailwind CSS](https://img.icons8.com/fluency/48/tailwind_css.png)
-![React](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
-![Express.js](https://img.icons8.com/ios/50/express-js.png)
-
-## 🛠️ Tools  
-![Git](https://img.icons8.com/color/48/git.png)
-![GitHub](https://img.icons8.com/ios-glyphs/60/github.png)
+###  Tech Stack & Tools
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/github.png" alt="github"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bdf3f69e-abae-4147-a52d-ebbb54ef8f3e" />
 
 
 ---
