@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Alagu Nandhini</h1>
-<h3 align="center">Aspiring Front-End Developer from Tamilnadu</h3>
+<h3 align="center">Aspiring MERN Stack Developer </h3>
 
 ---
 
 ###  About Me
--  I'm a passionate front-end developer and engineering student  
--  I’m currently learning **MERN Stack**  
+-  I'm a passionate MERN stack developer and engineering student  
+-  I’m currently learning **Back End development**  
 -  I’m on a journey to become an **AI-powered Web App Developer** 
 
 ---
