@@ -37,7 +37,6 @@
 > A simple full-stack web application to manage user data like name, email, and date of birth.  
 🔗 [Live Demo](https://user-management1-one.vercel.app/)
 
-
 ---
 
 ###  Connect with Me
@@ -45,6 +44,27 @@
 [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/alagunandhini?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 📧 Email: alagunadhini@gmail.com 
+
+---
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alagunandhini&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alagunandhini&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagunandhini&layout=compact&theme=default" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
