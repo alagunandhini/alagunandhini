@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Alagu Nandhini</h1>
-<h3 align="center">Aspiring MERN Stack Developer </h3>
+<h2 align="center">Hey 👋 Welcome to my GitHub!</h2>
+<h3 align="center">I'm Alagu Nandhini — an aspiring MERN Stack Developer</h3>
+
+
 
 ---
 
-###  About Me
--  I'm a passionate MERN stack developer and engineering student  
--  I’m currently learning **Back End development**  
--  I’m on a journey to become an **AI-powered Web App Developer** 
+## About Me
+
+ a passionate MERN Stack Developer and engineering student. I'm currently focused on learning back-end development, working with technologies like Node.js, Express, and MongoDB.I enjoy turning ideas into real-world projects and constantly push myself to grow as a developer through consistent learning and hands-on experience.
 
 ---
 
